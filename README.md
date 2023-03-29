@@ -6,7 +6,7 @@
     Site de exibição de vídeos curtos.
        <br />
     <br />
-    <a href="https://tiktok.netlify.app/">Projeto</a>
+    <a href="https://tiktok-reactjs.netlify.app/">Projeto</a>
     ·
     <a href="https://www.linkedin.com/in/nicoly-oliveira-da-cunha/">Contato</a>
   </p>
